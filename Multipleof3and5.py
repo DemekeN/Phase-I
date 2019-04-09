@@ -8,7 +8,7 @@ For the multiples of five print “Buzz”.
 For numbers which are multiples of both 3 and 5 print “FizzBuzz”.
 """
 
-for x in range(1,100):
+for x in range(1,101):
     if (x%5== 0) & (x%3==0):
         print('FIZZBUZZ')
     elif x%3 == 0:
