@@ -1,5 +1,5 @@
-""" The following application show a list of numbers and indicate whether or not they are prime.
-This application lets user to input the last number in the range, and print all of the numbers from 2 to that number.
+""" The following program prints a list of numbers and indicate whether or not they are prime.
+The program lets user to input the last number in the range, and print all of the numbers from 2 to that number.
 """
 number = int(input("Enter the last number"))
 primes = []
